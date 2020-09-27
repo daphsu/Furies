@@ -1,0 +1,16 @@
+body {
+  background-image: url("img/Wells_Fargo.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+.cursor {
+  position: absolute;
+  bottom: -100px;
+  width: 70px;
+  height: 70px;
+  cursor: none;
+  pointer-events: none;
+}
