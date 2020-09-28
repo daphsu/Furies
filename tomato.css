@@ -4,6 +4,33 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% auto;
+  overflow: hidden;
+}
+
+div.button1 {
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.button1 {
+  width: 355px;
+  height: 60px;
+  border: none;
+  color: #000000;
+  opacity: 0%;
+}
+
+div.button2 {
+  margin-top: 180px;
+  float: right;
+}
+
+.button2 {
+  width: 320px;
+  height: 60px;
+  border: none;
+  color: #000000;
+  opacity: 0%;
 }
 
 .cursor {
