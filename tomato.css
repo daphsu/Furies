@@ -1,5 +1,4 @@
 body {
-  background-image: url("img/Wells_Fargo.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -14,7 +13,7 @@ div.button1 {
 }
 
 .button1 {
-  width: 90px;
+  width: 120px;
   height: 30px;
   border: none;
   color: #000000;
@@ -28,7 +27,7 @@ div.button2 {
 }
 
 .button2 {
-  width: 90px;
+  width: 120px;
   height: 30px;
   border: none;
   color: #000000;
